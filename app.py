@@ -33,7 +33,7 @@ def format_places_results(places_results):
 
 # Streamlit UI Components
 # Streamlit UI for sorting and filtering
-st.title("Local Scout")
+st.title("Local Gems")
 
 # App description or bio
 st.subheader("Discover Your Next Favorite Spot")
