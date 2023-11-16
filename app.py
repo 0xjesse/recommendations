@@ -37,7 +37,7 @@ st.title("Local Gems")
 
 # App description or bio
 st.subheader("Discover Your Next Favorite Spot")
-st.text("Local Scout helps you find the best places anywhere. Whether you're looking for the best clubs in Austin, cozy Italian restaurants in NY, or delightful bakeries in California, Local Scout is your go-to guide for discovering local gems.")
+st.text("Local Gems helps you find the best places anywhere. Whether you're looking for the best clubs in Austin, cozy Italian restaurants in NY, or delightful bakeries in California, Local Scout is your go-to guide for discovering local gems.")
 
 query = st.text_input("Enter a location (e.g., 'Italian restaurants in Austin, TX')")
 
