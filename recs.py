@@ -24,5 +24,4 @@ def format_places_results(places_results):
             "Category": places_item["category"],
 #            "Image Url": places_item["thumbnailUrl"]
         })
-    print(formatted_output)
     return formatted_output
